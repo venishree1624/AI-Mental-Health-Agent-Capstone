@@ -109,17 +109,10 @@ LRO Escalation API/Mock Agent
 
 ---
 
-🎥 Demo
-
-(Add your screenshots or video link once uploaded.)
-
-
----
-
 📘 Notebook
 
 ➡ View the full Kaggle notebook here:
-(Paste your Kaggle notebook URL here)
+https://www.kaggle.com/code/venishreet/ai-agent-mental-health-support-system/notebook
 
 
 ---
